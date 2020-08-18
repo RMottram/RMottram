@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 |![website](https://img.icons8.com/color/128/000000/adobe-photoshop.png)|![website](https://img.icons8.com/color/128/000000/adobe-illustrator.png)|![website](https://img.icons8.com/color/128/000000/adobe-xd.png)|![website](https://img.icons8.com/color/128/000000/adobe-premiere-pro.png)|
 
 [![Ryan's Github stats](https://github-readme-stats.vercel.app/api?username=rmottram&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmottram&layout=compact&hide=visualbasic)](https://github.com/rmottram/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmottram)](https://github.com/rmottram/github-readme-stats)
