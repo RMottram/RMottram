@@ -1,5 +1,3 @@
-![Ryan photo](/Users/ryan/GitHub/Portfolio/assets/me_hs.jpg?raw=true "Me")
-
 ## Who am I?
 
 ##### My name is Ryan, Computer Science graduate from the University of Lincoln continuing with an MSc by Research in Computer Science. Main interests are cybersecurity, iOS development and machine learning
@@ -24,5 +22,4 @@ Here are some ideas to get you started:
 |![website](https://img.icons8.com/color/128/000000/python.png)|![website](https://img.icons8.com/color/128/000000/c-sharp-logo-2.png)|![website](https://img.icons8.com/color/128/000000/sql.png)|![website](https://img.icons8.com/color/128/000000/c-plus-plus-logo.png)|
 |![website](https://img.icons8.com/color/128/000000/html-5.png)|![website](https://img.icons8.com/color/128/000000/css3.png)|![website](https://img.icons8.com/color/128/000000/javascript-logo-1.png)|![website](https://img.icons8.com/color/128/000000/visual-studio-2019.png)|
 
-[![Ryan's Github stats](https://github-readme-stats.vercel.app/api?username=rmottram&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmottram)](https://github.com/rmottram/github-readme-stats)
