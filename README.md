@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 |![website](https://img.icons8.com/color/128/000000/mac-logo.png)|![website](https://img.icons8.com/fluent/128/000000/swiftui.png)|![website](https://img.icons8.com/color/128/000000/xcode.png)|![website](https://img.icons8.com/color/128/000000/ios-logo.png)|
 |---|---|---|---|
 |![website](https://img.icons8.com/color/128/000000/python.png)|![website](https://img.icons8.com/color/128/000000/c-sharp-logo-2.png)|![website](https://img.icons8.com/color/128/000000/sql.png)|![website](https://img.icons8.com/color/128/000000/c-plus-plus-logo.png)|
-|![website](https://img.icons8.com/color/128/000000/html-5.png)|![website](https://img.icons8.com/color/128/000000/css3.png)|![website](https://img.icons8.com/color/128/000000/javascript-logo-1.png)|![website](https://img.icons8.com/color/128/000000/visual-studio-2019.png)|
+|![website](https://img.icons8.com/color/128/000000/html-5.png)|![website](https://img.icons8.com/color/128/000000/css3.png)|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmottram)](https://github.com/rmottram/github-readme-stats)
