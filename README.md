@@ -1,24 +1,13 @@
-## Who am I?
+# Hello World! 👋🏼
 
-##### My name is Ryan, Computer Science graduate from the University of Lincoln continuing with an MSc by Research in Computer Science. Main interests are cybersecurity, iOS development and machine learning
+Computer Science graduate from the University of Lincoln with an MSc by Research in Machine Learning. Main interests are cybersecurity, iOS development and Machine Learning
 
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## I have experience with
-|![website](https://img.icons8.com/color/128/000000/mac-logo.png)|![website](https://img.icons8.com/fluent/128/000000/swiftui.png)|![website](https://img.icons8.com/color/128/000000/xcode.png)|![website](https://img.icons8.com/color/128/000000/ios-logo.png)|
-|---|---|---|---|
-|![website](https://img.icons8.com/color/128/000000/python.png)|![website](https://img.icons8.com/color/128/000000/c-sharp-logo-2.png)|![website](https://img.icons8.com/color/128/000000/sql.png)|![website](https://img.icons8.com/color/128/000000/c-plus-plus-logo.png)|
-|![website](https://img.icons8.com/color/128/000000/html-5.png)|![website](https://img.icons8.com/color/128/000000/css3.png)|
-
+- 🔭 I’m currently working on my iOS app, Umbriel a password manager
+- 💻 My WMD (Weapon of Mass Developmnt) is a 15" 2018 i7 Macbook Pro with 32GB RAM
+- 🧑‍🤝‍🧑 I’m looking to collaborate on ML and iOS open source projects
+- 👨🏻‍💻 Very keen and interested in any projects you may want to create and colab with
+- 🎮 Favourite game franchise is Zelda
+- 🔴 The Pokémon that is always in my party is Umbreon
+- 😋 My go to food is Pizza!
+- 📡 Find me at [LinkedIn](www.linkedin.com/in/ryan-mottram/) && [Instagram](https://instagram.com/ryan.codesuk?igshid=MjEwN2IyYWYwYw==) && [my portfolio](https://rmottram.github.io)
+- ⚡️ Fun fact: Outside of tech, I have interest in Greek gods and space (hence Umbriel)
